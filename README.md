@@ -160,7 +160,7 @@ PPortable-ECG-Monitoring/
 ## 👨‍💻 Author
 
 **Bipronath Saha**\
-B.Sc. in Electrical & Electronic Engineering\
+B.Sc. in Electrical & Electronic Engineering
 
 
 ------------------------------------------------------------------------
