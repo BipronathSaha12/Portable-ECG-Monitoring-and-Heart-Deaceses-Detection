@@ -167,4 +167,4 @@ B.Sc. in Electrical & Electronic Engineering
 
 ## 📜 License
 
-This project is Licensed in MIT 
+This project is Licensed in [MIT](https://github.com/BipronathSaha12/Portable-ECG-Monitoring-and-Heart-Deaceses-Detection/blob/main/LICENSE)
