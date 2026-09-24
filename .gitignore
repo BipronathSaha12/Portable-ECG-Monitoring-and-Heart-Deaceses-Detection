@@ -1,0 +1,42 @@
+# Arduino & ESP32 Compilation Outputs
+build/
+*.hex
+*.elf
+*.bin
+*.map
+*.d
+*.o
+*.a
+*.tmp
+.vscode 
+
+# IDE & Editor Specific Files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# Operating System Temporary & Metadata Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehlive.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Desktop.ini
+
+# Log Files & Hardware Serial Captures
+*.log
+serial_log*.txt
+
+# Android / Mobile App Build Outputs
+*.apk
+*.ap_
+*.dex
