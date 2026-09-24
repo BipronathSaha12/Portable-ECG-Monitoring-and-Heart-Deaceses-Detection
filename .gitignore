@@ -8,7 +8,7 @@ build/
 *.o
 *.a
 *.tmp
-.vscode 
+
 
 # IDE & Editor Specific Files
 .vscode/*
