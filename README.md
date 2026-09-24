@@ -22,13 +22,7 @@ The device captures real-time cardiac electrogram signals, performs QRS complex 
 | :---: | :---: |
 | ![3D PCB Model Render](images/PCB_Design_3D.jpeg) | ![Real Time Hardware Testing](images/Real-time_check_1.jpg) |
 
-| Live Oscilloscope & MCU Test | Companion Mobile Application UI |
-| :---: | :---: |
-| ![Live Oscilloscope Testing](images/Real-time-check_2.jpg) | ![Mobile Monitoring UI](images/Real-time-check_3.jpeg) |
 
-| Diagnostic Emergency Alert System |
-| :---: |
-| ![Mobile Alert Message UI](images/Aleart_message.jpeg) |
 
 ---
 
